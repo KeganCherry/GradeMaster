@@ -1,0 +1,5 @@
+add password saving & encryption
+add userlist
+and indivisual assignment page
+GPA calc
+revamp logging

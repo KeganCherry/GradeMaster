@@ -1,7 +1,6 @@
 package com.example;
 
 import java.io.FileWriter;
-import java.io.IOException;
 import java.io.PrintWriter;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -20,12 +19,27 @@ public class Logging {
         }
     }
 
+    
     public static void logError(String Contents) {
         try {
             PrintWriter output = new PrintWriter(new FileWriter("src\\main\\java\\com\\example\\log.txt", true));
             
             output.print("[" + getTime() + "] ");
             output.print("[ERROR] ");
+            output.println(Contents);
+            output.close();
+        }
+        catch(Exception e) {
+            e.getStackTrace();
+        }
+    }
+
+    public static void logSuccess(String Contents) {
+        try {
+            PrintWriter output = new PrintWriter(new FileWriter("src\\main\\java\\com\\example\\log.txt", true));
+            
+            output.print("[" + getTime() + "] ");
+            output.print("[SUCCESS] ");
             output.println(Contents);
             output.close();
         }

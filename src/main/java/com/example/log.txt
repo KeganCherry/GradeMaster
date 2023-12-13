@@ -1,1 +1,206 @@
-\
+[2023/12/06 12:06:20] Started GUI
+[2023/12/06 12:06:20] Initialized GUI
+[2023/12/06 12:06:35] Driver Initialized
+[2023/12/06 12:07:47] Driver Initialized
+[2023/12/06 12:08:07] Driver Initialized
+[2023/12/06 12:08:09] Website Reached
+[2023/12/06 12:08:10] [ERROR] Login Error; Invalid Credentials
+[2023/12/06 12:08:10] Driver Stopped
+[2023/12/06 12:08:14] Driver Initialized
+[2023/12/06 12:08:14] Website Reached
+[2023/12/06 12:08:17] User Logged In
+[2023/12/06 12:08:18] Fetched Averages in 3792.0 milliseconds.
+[2023/12/06 12:08:18] Driver Stopped
+[2023/12/06 12:09:41] Started GUI
+[2023/12/06 12:09:41] Initialized GUI
+[2023/12/06 12:35:01] Started GUI
+[2023/12/06 12:35:01] Initialized GUI
+[2023/12/06 13:18:55] Started GUI
+[2023/12/06 13:18:55] Initialized GUI
+[2023/12/06 13:19:19] Driver Initialized
+[2023/12/06 13:19:22] Website Reached
+[2023/12/06 13:19:25] User Logged In
+[2023/12/06 13:19:25] Fetched Averages in 3459.0 milliseconds.
+[2023/12/06 13:19:25] Driver Stopped
+[2023/12/06 13:19:48] Driver Initialized
+[2023/12/06 13:19:48] Website Reached
+[2023/12/06 13:19:51] User Logged In
+[2023/12/06 13:19:52] Fetched Averages in 3786.0 milliseconds.
+[2023/12/06 13:19:52] Driver Stopped
+[2023/12/06 13:19:59] Driver Initialized
+[2023/12/06 13:19:59] Website Reached
+[2023/12/06 13:20:02] User Logged In
+[2023/12/06 13:20:03] Fetched Averages in 3890.0 milliseconds.
+[2023/12/06 13:20:03] Driver Stopped
+[2023/12/06 13:22:23] Started GUI
+[2023/12/06 13:22:23] Initialized GUI
+[2023/12/06 13:22:31] Driver Initialized
+[2023/12/06 13:22:32] Website Reached
+[2023/12/06 13:22:35] User Logged In
+[2023/12/06 13:22:35] Fetched Averages in 3758.0 milliseconds.
+[2023/12/06 13:22:35] Driver Stopped
+[2023/12/06 13:22:53] Driver Initialized
+[2023/12/06 13:22:54] Website Reached
+[2023/12/06 13:22:54] [ERROR] Login Error; Invalid Credentials
+[2023/12/06 13:22:54] Driver Stopped
+[2023/12/08 11:02:20] Started GUI
+[2023/12/08 11:02:20] Initialized GUI
+[2023/12/08 13:18:12] Started GUI
+[2023/12/08 13:18:12] Initialized GUI
+[2023/12/08 13:18:26] Driver Initialized
+[2023/12/08 13:18:29] Website Reached
+[2023/12/08 13:18:30] [ERROR] Login Error; Invalid Credentials
+[2023/12/08 13:18:30] Driver Stopped
+[2023/12/08 13:18:44] Driver Initialized
+[2023/12/08 13:18:44] Website Reached
+[2023/12/08 13:18:48] User Logged In
+[2023/12/08 13:18:49] Fetched Averages in 4357.0 milliseconds.
+[2023/12/08 13:18:49] Driver Stopped
+[2023/12/10 21:19:02] Started GUI
+[2023/12/10 21:19:02] Initialized GUI
+[2023/12/10 21:19:39] [SUCCESS] Driver Initialized
+[2023/12/10 21:19:43] [SUCCESS] Website Reached
+[2023/12/10 21:19:46] [SUCCESS] User Logged In
+[2023/12/10 21:19:47] Fetched Averages in 4389.0 milliseconds.
+[2023/12/10 21:19:47] Driver Stopped
+[2023/12/11 10:17:34] Started GUI
+[2023/12/11 10:17:34] Started GUI
+[2023/12/11 10:17:34] Initialized GUI
+[2023/12/11 12:47:18] Started GUI
+[2023/12/11 12:47:18] Started GUI
+[2023/12/11 12:47:18] Initialized GUI
+[2023/12/11 12:47:25] Started GUI
+[2023/12/11 12:47:25] Started GUI
+[2023/12/11 12:47:25] Initialized GUI
+[2023/12/11 12:47:40] [SUCCESS] Driver Initialized
+[2023/12/11 12:47:43] [SUCCESS] Website Reached
+[2023/12/11 12:47:46] [SUCCESS] User Logged In
+[2023/12/11 12:47:47] Fetched Averages in 3848.0 milliseconds.
+[2023/12/11 12:47:47] Driver Stopped
+[2023/12/11 13:26:53] Started GUI
+[2023/12/11 13:26:53] Started GUI
+[2023/12/11 13:26:53] Initialized GUI
+[2023/12/11 13:27:10] [SUCCESS] Driver Initialized
+[2023/12/11 13:27:13] [SUCCESS] Website Reached
+[2023/12/11 13:27:16] [SUCCESS] User Logged In
+[2023/12/11 13:27:17] Fetched Averages in 3761.0 milliseconds.
+[2023/12/11 13:27:17] Driver Stopped
+[2023/12/11 13:32:12] Started GUI
+[2023/12/11 13:32:12] Started GUI
+[2023/12/11 13:32:12] Initialized GUI
+[2023/12/11 13:32:24] [SUCCESS] Driver Initialized
+[2023/12/11 13:32:24] [SUCCESS] Website Reached
+[2023/12/11 13:32:28] [SUCCESS] User Logged In
+[2023/12/11 13:32:28] Fetched Averages in 3908.0 milliseconds.
+[2023/12/11 13:32:28] Driver Stopped
+[2023/12/12 09:11:30] Started GUI
+[2023/12/12 09:11:30] Started GUI
+[2023/12/12 09:11:30] Initialized GUI
+[2023/12/13 07:28:07] Started Login Panel
+[2023/12/13 07:28:07] Started Login Frame
+[2023/12/13 07:28:07] Initialized GUI
+[2023/12/13 07:29:20] Started Login Panel
+[2023/12/13 07:29:20] Started Login Frame
+[2023/12/13 07:29:20] Initialized GUI
+[2023/12/13 07:29:29] Started Login Panel
+[2023/12/13 07:29:30] Started Login Frame
+[2023/12/13 07:29:30] Initialized GUI
+[2023/12/13 07:29:45] Started Login Panel
+[2023/12/13 07:29:45] Started Login Frame
+[2023/12/13 07:29:45] Initialized GUI
+[2023/12/13 08:15:01] Started Login Panel
+[2023/12/13 08:15:01] Started Login Frame
+[2023/12/13 08:15:56] Started Login Panel
+[2023/12/13 08:15:56] Started Login Frame
+[2023/12/13 08:15:59] [SUCCESS] Driver Initialized
+[2023/12/13 08:16:02] [SUCCESS] Website Reached
+[2023/12/13 08:44:53] Started Login Panel
+[2023/12/13 08:44:53] Started Login Frame
+[2023/12/13 08:44:55] [SUCCESS] Driver Initialized
+[2023/12/13 08:44:58] [SUCCESS] Website Reached
+[2023/12/13 08:46:16] Started Login Panel
+[2023/12/13 08:46:17] Started Login Frame
+[2023/12/13 08:46:19] [SUCCESS] Driver Initialized
+[2023/12/13 08:46:19] [SUCCESS] Website Reached
+[2023/12/13 08:51:05] Started Login Panel
+[2023/12/13 08:51:05] Started Login Frame
+[2023/12/13 08:51:07] [SUCCESS] Driver Initialized
+[2023/12/13 08:51:07] [SUCCESS] Website Reached
+[2023/12/13 08:53:06] Started Login Panel
+[2023/12/13 08:53:07] Started Login Frame
+[2023/12/13 08:53:09] [SUCCESS] Driver Initialized
+[2023/12/13 08:53:09] [SUCCESS] Website Reached
+[2023/12/13 08:54:00] Started Login Panel
+[2023/12/13 08:54:00] Started Login Frame
+[2023/12/13 08:54:02] [SUCCESS] Driver Initialized
+[2023/12/13 08:54:02] [SUCCESS] Website Reached
+[2023/12/13 08:54:19] Started Grade Panel
+[2023/12/13 08:54:19] Started Grade Frame
+[2023/12/13 09:07:18] Started Login Panel
+[2023/12/13 09:07:18] Started Login Frame
+[2023/12/13 09:07:20] [SUCCESS] Driver Initialized
+[2023/12/13 09:07:21] [SUCCESS] Website Reached
+[2023/12/13 09:07:35] Started Grade Panel
+[2023/12/13 09:07:36] Started Grade Frame
+[2023/12/13 09:31:25] Started Login Panel
+[2023/12/13 09:31:25] Started Login Frame
+[2023/12/13 09:31:27] [SUCCESS] Driver Initialized
+[2023/12/13 09:31:28] [SUCCESS] Website Reached
+[2023/12/13 09:31:37] Started Grade Panel
+[2023/12/13 09:31:37] Started Grade Frame
+[2023/12/13 09:32:21] Started Login Panel
+[2023/12/13 09:32:21] Started Login Frame
+[2023/12/13 09:32:23] [SUCCESS] Driver Initialized
+[2023/12/13 09:32:23] [SUCCESS] Website Reached
+[2023/12/13 09:37:35] Started Login Panel
+[2023/12/13 09:37:35] Started Login Frame
+[2023/12/13 09:37:37] [SUCCESS] Driver Initialized
+[2023/12/13 09:37:37] [SUCCESS] Website Reached
+[2023/12/13 09:38:00] Started Login Panel
+[2023/12/13 09:38:00] Started Login Frame
+[2023/12/13 09:38:02] [SUCCESS] Driver Initialized
+[2023/12/13 09:38:02] [SUCCESS] Website Reached
+[2023/12/13 09:38:15] Started Grade Panel
+[2023/12/13 09:38:15] Started Grade Frame
+[2023/12/13 09:56:21] Started Login Panel
+[2023/12/13 09:56:21] Started Login Frame
+[2023/12/13 09:56:23] [SUCCESS] Driver Initialized
+[2023/12/13 09:56:24] [SUCCESS] Website Reached
+[2023/12/13 09:56:34] Started Grade Panel
+[2023/12/13 09:56:34] Started Grade Frame
+[2023/12/13 09:57:11] Started Login Panel
+[2023/12/13 09:57:11] Started Login Frame
+[2023/12/13 09:57:14] [SUCCESS] Driver Initialized
+[2023/12/13 09:57:15] [SUCCESS] Website Reached
+[2023/12/13 09:57:19] Started Grade Panel
+[2023/12/13 09:57:19] Started Grade Frame
+[2023/12/13 09:57:21] [SUCCESS] User Logged In
+[2023/12/13 09:57:22] [ERROR] Fetch Error; Could not Fetch Averages
+[2023/12/13 09:58:22] Started Login Panel
+[2023/12/13 09:58:22] Started Login Frame
+[2023/12/13 09:58:24] [SUCCESS] Driver Initialized
+[2023/12/13 09:58:25] [SUCCESS] Website Reached
+[2023/12/13 09:58:45] Started Login Panel
+[2023/12/13 09:58:45] Started Login Frame
+[2023/12/13 09:58:47] [SUCCESS] Driver Initialized
+[2023/12/13 09:58:50] [SUCCESS] Website Reached
+[2023/12/13 09:59:06] Started Grade Panel
+[2023/12/13 09:59:06] Started Grade Frame
+[2023/12/13 09:59:09] [SUCCESS] User Logged In
+[2023/12/13 09:59:09] [ERROR] Fetch Error; Could not Fetch Averages
+[2023/12/13 10:00:24] Started Login Panel
+[2023/12/13 10:00:24] Started Login Frame
+[2023/12/13 10:00:26] [SUCCESS] Driver Initialized
+[2023/12/13 10:00:26] [SUCCESS] Website Reached
+[2023/12/13 10:00:31] Started Grade Panel
+[2023/12/13 10:00:31] Started Grade Frame
+[2023/12/13 10:00:35] [SUCCESS] User Logged In
+[2023/12/13 10:00:35] [ERROR] Fetch Error; Could not Fetch Averages
+[2023/12/13 10:02:07] Started Login Panel
+[2023/12/13 10:02:07] Started Login Frame
+[2023/12/13 10:02:09] [SUCCESS] Driver Initialized
+[2023/12/13 10:02:09] [SUCCESS] Website Reached
+[2023/12/13 10:02:23] Started Grade Panel
+[2023/12/13 10:02:23] Started Grade Frame
+[2023/12/13 10:02:26] [SUCCESS] User Logged In
+[2023/12/13 10:02:27] [ERROR] Fetch Error; Could not Fetch Averages
